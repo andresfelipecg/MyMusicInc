@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RockFragment"
+    android:orientation="vertical">
+
+
+    <CheckBox
+        android:id="@+id/rock1"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Bumbury.            Artist:Enrique Bumbury               Price:$3.2" />
+
+    <CheckBox
+        android:id="@+id/rock2"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Nevermind.            Artist:Nirvana             Price:$1.2" />
+
+    <CheckBox
+        android:id="@+id/rock3"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Boston.            Artist:Boston band             Price:$2.0" />
+
+    <CheckBox
+        android:id="@+id/rock4"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Ten.            Artist:Pearl Jam             Price:$5.2" />
+
+    <Button
+        android:onClick="check_out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnRock"
+        android:text="Check-out"></Button>
+</LinearLayout>

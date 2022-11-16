@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RockFragment"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/jazz1"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Satchmo At Symphony Hall.            Artist:Louis Armstrong               Price:$4.0" />
+
+    <CheckBox
+        android:id="@+id/jazz2"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Vol. 1: Genius.            Artist:Thelonious Monk             Price:$4.2" />
+
+    <CheckBox
+        android:id="@+id/jazz3"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Billie Holiday.            Artist:Billie Holiday          Price:$3.2" />
+
+    <CheckBox
+        android:id="@+id/jazz4"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Jazz at massey .            Artist:The Quintet       Price:$5.2" />
+
+    <Button
+        android:onClick="check_out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnJazz"
+        android:text="Check-out"></Button>
+</LinearLayout>

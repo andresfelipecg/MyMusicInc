@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/FINAL LAB2/MyMusicInc/app/src/main/res/layout/activity_check_out.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/FINAL LAB2/MyMusicInc/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/FINAL LAB2/MyMusicInc/app/src/main/res/layout/fragment_jazz.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/FINAL LAB2/MyMusicInc/app/src/main/res/layout/fragment_rock.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/FINAL LAB2/MyMusicInc/app/src/main/res/menu/genre_menu.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/activity_check_out.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/activity_enter.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/activity_payment_method.xml" value="0.16" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/fragment_classical.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/fragment_jazz.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/fragment_pop.xml" value="0.32407407407407407" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/fragment_profile.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/fragment_rap.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/layout/fragment_rock.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/andre/Desktop/Centennial Software Engineering/Second Semester/Movil Programming Android/Lab2/MyMusicInc/app/src/main/res/menu/genre_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

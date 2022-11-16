@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RockFragment"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/rap1"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Licensed To Ill.            Artist:Beastie Boys           Price:$4.0" />
+
+    <CheckBox
+        android:id="@+id/rap2"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: To The Extreme.            Artist:Vanilla Ice             Price:$4.2" />
+
+    <CheckBox
+        android:id="@+id/rap3"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Black Sunday.            Artist:Cypress Hill        Price:$3.2" />
+
+    <CheckBox
+        android:id="@+id/rap4"
+        android:layout_width="163dp"
+        android:layout_height="130dp"
+        android:text="Title: Doggystyle .            Artist:Snoop Doggy Dogg    Price:$5.2" />
+
+    <Button
+        android:onClick="check_out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnRap"
+        android:text="Check-out"></Button>
+
+</LinearLayout>

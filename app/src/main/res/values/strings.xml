@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MySocialMedia</string>
+    <string name="home">HOME</string>
+    <string name="pop">pop</string>
+    <string name="rock">rock</string>
+    <string name="jazz">jazz</string>
+    <string name="rap">rap</string>
+    <string name="classical">classical</string>
+    <string name="delete">Delete</string>
+    <string name="payment">Payment</string>
+    <string name="cash">Cash</string>
+    <string name="credit">Credit</string>
+    <string name="debit">Debit</string>
+    <string name="enter">Enter</string>
+
+
+    <string-array name="tvShow">
+        <item>Breaking Bad</item>
+        <item>Casa de papel</item>
+        <item>Seinfeld</item>
+        <item>Friends</item>
+    </string-array>
+</resources>
